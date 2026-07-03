@@ -1,0 +1,23 @@
+Nama Tim        :(Tim-nice) Eventify
+
+Anggota Tim     :
+1. [241112099] - [BULAN NAINGGOLAN]
+2. [241112773] - [CERIA REMINISCERE GULO]
+3. [241112306] - [DONO SAPUTRA LUMBAN TOBING]
+4. [241110945] - [QORIAH BILQIS AULIA]
+
+Teknologi yang digunakan:
+- Backend    : Node.js (Express 5), Sequelize ORM
+- Database   : MySQL
+- Auth       : JWT (jsonwebtoken) + bcrypt
+- Real-time  : Socket.io
+- Frontend   : HTML, CSS, Vanilla JS + FullCalendar.js
+- Link template/starter yang dipakai (jika ada): [ISI DI SINI, atau tulis "Tidak menggunakan template, dibangun dari nol"]
+
+Link Hostingan   : [ISI DI SINI — URL setelah deploy ke Render/Railway/Fly.io/dll]
+Username/Password Admin   : [BISA BUAT SENDIRI] pas minimal 8karakter
+
+CATATAN KEAMANAN:
+Gunakan akun admin KHUSUS UNTUK KEBUTUHAN PENILAIAN saja (jangan pakai kredensial
+pribadi/produksi). Ganti password default sebelum submit jika dibuat sembarangan
+saat development.
